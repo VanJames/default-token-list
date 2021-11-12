@@ -214,5 +214,13 @@
     "decimals": 18,
     "chainId": 1285,
     "logoURI": "https://raw.githubusercontent.com/solarbeamio/assets/master/blockchains/moonriver/assets/0x1e24EC84F66cd26Dad607d81796DbeB13Cb22692/logo.png"
+  },
+  {
+    "name": "Moonrose Finance",
+    "address": "0xC07A4b789b07Fe5A19643842E675483c6F4a480a",
+    "symbol": "MTRG",
+    "decimals": 18,
+    "chainId": 1285,
+    "logoURI": "https://moonrose.finance/logo200.png"
   }
 ]
